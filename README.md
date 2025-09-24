@@ -97,72 +97,67 @@
   </section>
 
   <section id="pricing">
-    <h2>Pricing</h2>
-    <div class="pricing">
-      <div class="pricing-box">
-        <h3>Standard Nails (2d–6d)</h3>
-        <p>$0.05 per nail</p>
-      </div>
-      <div class="pricing-box">
-        <h3>Framing Nails (8d–16d)</h3>
-        <p>$0.10 per nail</p>
-      </div>
-      <div class="pricing-box">
-        <h3>Heavy-Duty Nails (20d–60d)</h3>
-        <p>$0.20 per nail</p>
-      </div>
+  <h2>Our Product Range</h2>
+  <div class="pricing-table">
+    <div class="pricing-box">
+      <h3>Standard Nails</h3>
+      <p>Ideal for light carpentry and finishing work.</p>
+      <p><strong>Contact us for customized quotes</strong></p>
     </div>
-    <a href="#contact" class="button">Request a Quote</a>
-  </section>
-
-  <section id="testimonials">
-    <h2>Client Testimonials</h2>
-    <div class="testimonials">
-      <div class="testimonial-box">
-        <p>"Next to Your Site provides top-quality nails with timely delivery. Our projects have never run smoother!"</p>
-        <strong>- John D., Toronto Contractor</strong>
-      </div>
-      <div class="testimonial-box">
-        <p>"Reliable supplier with excellent customer service. Highly recommend for any construction business."</p>
-        <strong>- Sarah L., Builder, Vancouver</strong>
-      </div>
-      <div class="testimonial-box">
-        <p>"Consistent quality and bulk order support make them our go-to iron nails supplier."</p>
-        <strong>- Michael R., Procurement Manager, Calgary</strong>
-      </div>
+    <div class="pricing-box">
+      <h3>Framing Nails</h3>
+      <p>Perfect for framing, sheathing, and structural tasks.</p>
+      <p><strong>Competitive rates available on request</strong></p>
     </div>
-  </section>
-
-  <section id="contact">
-    <h2>Contact Us</h2>
-    <div class="contact">
-      <div class="contact-box">
-        <h3>Email</h3>
-        <p>info@nexttoyoursite.com</p>
-      </div>
-      <div class="contact-box">
-        <h3>Phone</h3>
-        <p>+1 234 567 8901</p>
-      </div>
-      <div class="contact-box">
-        <h3>Address</h3>
-        <p>Toronto, Canada</p>
-      </div>
+    <div class="pricing-box">
+      <h3>Heavy-Duty Nails</h3>
+      <p>For industrial, large-scale, and heavy timber projects.</p>
+      <p><strong>Special pricing for bulk orders</strong></p>
     </div>
-    <h3>Send us a message</h3>
-    <form action="mailto:info@nexttoyoursite.com" method="post" enctype="text/plain">
-      <input type="text" name="name" placeholder="Your Name" required>
-      <input type="email" name="email" placeholder="Your Email" required>
-      <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
-      <input type="submit" value="Send Message">
-    </form>
-  </section>
+  </div>
+</section>
+    <!-- Testimonials Section -->
+<section id="testimonials">
+  <h2>Trusted by Canadian Builders</h2>
+  <div class="testimonials">
+    <div class="testimonial-box">
+      <p>"Reliable supplier, great quality nails for our projects."</p>
+      <h4>– John M., Contractor</h4>
+    </div>
+    <div class="testimonial-box">
+      <p>"Excellent service and timely delivery. Highly recommended."</p>
+      <h4>– Sarah L., Builder</h4>
+    </div>
+    <div class="testimonial-box">
+      <p>"Professional team and durable products. A trusted partner."</p>
+      <h4>– David K., Procurement Manager</h4>
+    </div>
+  </div>
+</section>
 
-</div>
+<!-- Contact Section -->
+<section id="contact">
+  <h2>Contact Me</h2>
+  <div class="contact">
+    <div class="contact-box">
+      <h3>Name</h3>
+      <p>Happy Chahar</p>
+    </div>
+    <div class="contact-box">
+      <h3>Email</h3>
+      <p><a href="mailto:happyy.workkss@gmail.com">happyy.workkss@gmail.com</a></p>
+    </div>
+    <div class="contact-box">
+      <h3>Phone</h3>
+      <p><a href="tel:+919694800048">+91 96948 00048</a></p>
+    </div>
+  </div>
 
-<footer>
-  <p>&copy; 2025 Next to Your Site. All Rights Reserved.</p>
-</footer>
-
-</body>
-</html>
+  <h3>Send me a message</h3>
+  <form action="mailto:happyy.workkss@gmail.com" method="post" enctype="text/plain">
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="email" name="email" placeholder="Your Email" required>
+    <textarea name="message" placeholder="Your Message" rows="5" required></textarea>
+    <input type="submit" value="Send Message">
+  </form>
+</section> 
